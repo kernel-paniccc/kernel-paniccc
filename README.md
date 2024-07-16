@@ -8,6 +8,7 @@
 
 <h2 align='center'>
 🛠️ My skills, languages, tools and more
+  <br>
 </h2>
 
 <h3 align="start">
@@ -27,7 +28,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite"  alt="sqlite" width="55" height="55"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx"  alt="nginx" width="55" height="55"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git"  alt="git" width="55" height="55"/>
+  <br><br>
 </h3>
 
-
+<h1 align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kernel-paniccc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</h1>
