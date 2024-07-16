@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone, my name is Ivan!</h1>
-
-<img src="https://media.giphy.com/media/KxbHmvL3MGcctzlfdX/giphy.gif" width=500>
-
+<div class="head" align="center">
+  <img src="https://media.giphy.com/media/KxbHmvL3MGcctzlfdX/giphy.gif" width=500>
+</div>
 <h3 align="start">
   About me:
 </h3>
@@ -34,6 +34,9 @@
   <br><br>
 </h3>
 
+<div class="container" align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kernel-paniccc&layout=compact&theme=vision-friendly-dark)]   (https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kernel-paniccc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
