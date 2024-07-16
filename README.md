@@ -13,7 +13,7 @@
 🛠️ My skills, languages, tools and more
   <br>
 </h2>
-
+g
 <h3 align="start">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python"  alt="python" width="55" height="55"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="fastapi"  alt="fastapi" width="55" height="55"/>
