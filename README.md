@@ -1,4 +1,7 @@
 <h1 align="center">Hi everyone, my name is Ivan!</h1>
+
+<img src="https://media.giphy.com/media/KxbHmvL3MGcctzlfdX/giphy.gif" width=500>
+
 <h3 align="start">
   About me:
 </h3>
