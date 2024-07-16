@@ -19,5 +19,7 @@ https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordm
 
 <h3 align="center">
 My stats
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kernel-paniccc&theme=github_dark)
+
 </h3>
