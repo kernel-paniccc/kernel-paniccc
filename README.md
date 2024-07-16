@@ -31,6 +31,6 @@
   <br><br>
 </h3>
 
-<h1 align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kernel-paniccc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</h1>
+
