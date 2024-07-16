@@ -14,10 +14,9 @@ My language
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash"  alt="Bash" width="55" height="55"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino"  alt="Arduino" width="55" height="55"/>
-<img src="" title=""  alt="Arduino" width="55" height="55"/>
 </h3>
 
-My <h3 align='start'>
+<h3 align='start'>
 My layout
 </h3>
 
@@ -27,13 +26,6 @@ My layout
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title=""  alt="Arduino" width="55" height="55"/>
 </h3>
 
-
-<h3 align="start">
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash"  alt="Bash" width="55" height="55"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino"  alt="Arduino" width="55" height="55"/>
-<img src="" title=""  alt="Arduino" width="55" height="55"/>
-</h3>
 
 <h3 align="center">
 My stats
