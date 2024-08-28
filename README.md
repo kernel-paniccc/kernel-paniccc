@@ -15,7 +15,7 @@
 </h2>
 
 <h3 align='start'>
-  💻 My programming languages ​​used
+  💻 Programming languages ​​used
   <br>
 </h3>
 
@@ -27,7 +27,7 @@
 </h3>
 
 <h3 align='start'>
- 📱 My frontend and layout skils
+ 📱 Frontend and layout skils
   <br>
 </h3>
 
@@ -39,7 +39,7 @@
 </h3>
 
 <h3 align='start'>
- 🔧 My python frameworks and libraries
+ 🔧 Python frameworks and libraries
   <br>
 </h3>
 
@@ -52,7 +52,7 @@
 </h3>
 
 <h3 align='start'>
- 💾 My operating systems
+ 💾 Operating systems
   <br>
 </h3>
 
