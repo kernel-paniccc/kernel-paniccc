@@ -15,19 +15,7 @@
 </h2>
 
 <h3 align='start'>
-  My frontend and layout skils
-  <br>
-</h3>
-
-<h3 align="start">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html"  alt="html" width="55" height="55"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css"  alt="css" width="55" height="55"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap"  alt="bootstrap" width="55" height="55"/>
-  <br>
-</h3>
-
-<h3 align='start'>
-  My programming languages ​​used
+  💻 My programming languages ​​used
   <br>
 </h3>
 
@@ -39,7 +27,19 @@
 </h3>
 
 <h3 align='start'>
-  My python frameworks and libraries
+ 📱 My frontend and layout skils
+  <br>
+</h3>
+
+<h3 align="start">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html"  alt="html" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css"  alt="css" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap"  alt="bootstrap" width="55" height="55"/>
+  <br>
+</h3>
+
+<h3 align='start'>
+ 🔧 My python frameworks and libraries
   <br>
 </h3>
 
@@ -52,7 +52,7 @@
 </h3>
 
 <h3 align='start'>
-  My operating systems
+ 💾 My operating systems
   <br>
 </h3>
 
@@ -64,11 +64,12 @@
 </h3>
 
 <h3 align='start'>
-  Other technologies
+📁 Other technologies
   <br>
 </h3>
 
 <h3 align="start">
+  <img src="https://github.com/devicons/devicon/blob/detaspace/icons/postgresql/postgresql-plain-wordmark.svg" title="postgres"  alt="postgres" width="55" height="55"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql"  alt="mysql" width="55" height="55"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite"  alt="sqlite" width="55" height="55"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx"  alt="nginx" width="55" height="55"/>
