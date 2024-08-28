@@ -77,8 +77,9 @@
   <br><br>
 </h3>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kernel-paniccc&layout=compact&theme=vision-friendly-dark)
+<div align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kernel-paniccc&layout=compact&theme=vision-friendly-dark)
+</div>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kernel-paniccc&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kernel-paniccc&theme=github_dark)
