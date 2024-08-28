@@ -80,5 +80,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kernel-paniccc&layout=compact&theme=vision-friendly-dark)
 
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kernrl_paniccc&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kernrl_paniccc&theme=github_dark)
 
