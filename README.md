@@ -45,7 +45,7 @@
 
 <h3 align="start">
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="fastapi"  alt="fastapi" width="55" height="55"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask"  alt="flask" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask"  alt="flask" width="55" height="55"/>
   <img src="https://github.com/darkfos/darkfos/blob/main/33784865.png" title="aiogram"  alt="aiogram" width="55" height="55"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="sqlalhimy"  alt="sqlalhimy" width="55" height="55"/>
   <br>
