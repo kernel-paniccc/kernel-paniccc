@@ -76,6 +76,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite"  alt="sqlite" width="55" height="55"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx"  alt="nginx" width="55" height="55"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git"  alt="git" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/detaspace/icons/docker/docker-plain-wordmark.svg" title="docker"  alt="docker" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/detaspace/icons/poetry/poetry-original.svg" title="poetry"  alt="poetry" width="55" height="55"/>
   <br><br>
 </h3>
 
