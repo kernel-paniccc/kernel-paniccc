@@ -16,13 +16,11 @@
 
 
 ### 💻 Backend
-![Backend](https://go-skill-icons.vercel.app/api/icons?i=py,fastapi,flask,rabbitmq,sqlite,pytest,sqlalchemy,aiogram,selenium,postgresql,poetry,uv
-&perline=6&titles=true)
+![Backend](https://go-skill-icons.vercel.app/api/icons?i=py,fastapi,flask,rabbitmq,sqlite,pytest,sqlalchemy,aiogram,selenium,postgresql,poetry,uv&perline=6&titles=true)
 
 
 ### 📱 Frontend and layout skils
-![Frontend](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,css,html,js,scss,jquery
-&perline=6&titles=true)
+![Frontend](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,css,html,js,scss,jquery&perline=6&titles=true)
 
 ### Other
 
