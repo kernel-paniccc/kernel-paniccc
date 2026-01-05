@@ -1,17 +1,23 @@
-<h1 align="center">Hi everyone, my name is kernel-paniccc!</h1>
-<div class="head" align="center">
-  <img src="https://media.giphy.com/media/KxbHmvL3MGcctzlfdX/giphy.gif" width=500>
+<h1 align="center">Hi, I'm Ivan Ruchkin (kernel-paniccc) 👋</h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/KxbHmvL3MGcctzlfdX/giphy.gif" width="400">
 </div>
-<h3 align="start">
+
+<h3 align="center">
+  🔐 DevSecOps Engineer | Cryptographic Security Researcher | CTF Player
+</h3>
+
   About me:
 </h3>
-<h4 align="start">
-   I am an <a style="text-decoration:none;" href="https://www.hse.ru/en/" target="_blank">HSE</a> student majoring in Computer Security and have been involved in Information Security, Development, and CTF since 2023. Welcome to my profile !
-</h4>
+
+🎓 **1st-year student** at [HSE University](https://www.hse.ru/en/) — Information Security (10.05.01)  
+🔒 **3+ years** in offensive security (Kali Linux, CTF, pentesting)  
+🔐 **Specialized in:** Cryptographic problem, DevSecOps engeniring and InfoSec
 
 ## TECHNICAL STACK
 
-### 🛠️ DevSecOps
+### 🔐 Security & DevSecOps
 ![DevSecOps](https://go-skill-icons.vercel.app/api/icons?i=ansible,arch,bash,cloudflare,debian,docker,git,github,gitlab,grafana,heroku,kali,kubernetes,linux,neovim,nginx,nix,postman,prometheus,ubuntu,wireshark&perline=6&titles=true)
 
 
