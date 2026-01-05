@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ivan Ruchkin (kernel-paniccc) 👋</h1>
+<h1 align="center">Hi, I'm Ivan (kernel-paniccc) 👋</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/KxbHmvL3MGcctzlfdX/giphy.gif" width="400">
