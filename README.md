@@ -18,20 +18,32 @@
 ## TECHNICAL STACK
 
 ### 🔐 Security & DevSecOps
-![DevSecOps](https://go-skill-icons.vercel.app/api/icons?i=ansible,arch,bash,cloudflare,debian,docker,git,github,gitlab,grafana,heroku,kali,kubernetes,linux,neovim,nginx,nix,postman,prometheus,ubuntu,wireshark&perline=10&titles=true)
+![DevSecOps](https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,debian,arch,kali,git,docker,kubernetes,ansible,github,gitlab,cloudflare,heroku,prometheus,grafana,nginx,bash,neovim,postman,nix&perline=5&titles=true)
 
+#### **Main CTF & Pentest Tools and MLSecOps:**
+- **Web:** Burp Suite, sqlmap, dirb, gobuster, wfuzz, ffuf
+- **Crypto:** rsactftool, Sage, John the Ripper, hashcat
+- **Forensics:** Volatility, Autopsy, FTK Imager
+- **Steganography:** zsteg, stegsolve, binwalk, exiftool
+- **Network:** Wireshark, nmap, zenmap, netcat, iptables
+- **Secure ML:** CrypTen (confidential AI), PyTorch (torch.distributed)
 
 ### 💻 Backend
-![Backend](https://go-skill-icons.vercel.app/api/icons?i=py,fastapi,flask,rabbitmq,sqlite,pytest,sqlalchemy,aiogram,selenium,postgresql,poetry,uv&perline=10&titles=true)
+![Backend](https://go-skill-icons.vercel.app/api/icons?i=py,flask,fastapi,aiogram,sqlite,postgresql,sqlalchemy,pytest,selenium,rabbitmq&perline=5&titles=true)
 
 
-### 📱 Frontend and layout skils
-![Frontend](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,css,html,js,scss,jquery&perline=10&titles=true)
+### 📱 Frontend and layout skils 
+![Frontend](https://go-skill-icons.vercel.app/api/icons?i=js,jquery,html,css,bootstrap,scss&perline=10&titles=true)
 
-### Other
+### 🔧 Other skils
 
+![Other](https://go-skill-icons.vercel.app/api/icons?i=pytorch,arduino,raspberrypi,cpp&perline=10&titles=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kernel-paniccc&layout=compact&theme=vision-friendly-dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kernel-paniccc&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kernel-paniccc&theme=github_dark)
+### 📊 GitHub Stats
 
+<div>
+  <img alt="kernel-paniccc GitHub stats" align=top src="https://github-readme-stats.itqdev.xyz/api?username=kernel-paniccc&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true&hide=stars,prs,contribs&show=prs_merged_percentage">
+  <img alt="kernel-paniccc GitHub stats" src="https://github-readme-stats.itqdev.xyz/api/top-langs?username=kernel-paniccc&count_private=true?show_icons=true&hide_border=true&bg_color=00000000&text_color=868686&include_all_commits=true&layout=compact&langs_count=6&exclude_repo=yandex-lyceum,Techuspeh,InDataLanding">
+</div>
+
+💬 **Telegram:** [@kernel_paniccc](https://t.me/kernel_paniccc) 
