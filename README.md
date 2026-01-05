@@ -12,7 +12,7 @@
 ## TECHNICAL STACK
 
 ### 🛠️ DevSecOps
-![DevSecOps](https://go-skill-icons.vercel.app/api/icons?i=ansible,arch,bash,cloudflare,debian,docker,git,github,gitlab,grafana,heroku,kali,kubernetes,linux,neovim,nginx,nix,postman,prometheus,ubuntu&perline=6&titles=true)
+![DevSecOps](https://go-skill-icons.vercel.app/api/icons?i=ansible,arch,bash,cloudflare,debian,docker,git,github,gitlab,grafana,heroku,kali,kubernetes,linux,neovim,nginx,nix,postman,prometheus,ubuntu,wireshark&perline=6&titles=true)
 
 
 ### 💻 Backend
