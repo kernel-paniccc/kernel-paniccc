@@ -18,7 +18,7 @@
 ## TECHNICAL STACK
 
 ### 🔐 Security & DevSecOps
-![DevSecOps](https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,debian,arch,kali,git,docker,kubernetes,ansible,github,gitlab,cloudflare,heroku,prometheus,grafana,nginx,bash,neovim,postman,nix&perline=5&titles=true)
+![DevSecOps](https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,debian,arch,kali,systemd,git,docker,kubernetes,helm,ansible,terraform,github,githubactions,gitlab,cloudflare,heroku,prometheus,grafana,nginx,bash,neovim,postman,nix&perline=5&titles=true)
 
 #### **Main CTF & Pentest Tools and MLSecOps:**
 - **Web:** Burp Suite, sqlmap, dirb, gobuster, wfuzz, ffuf
