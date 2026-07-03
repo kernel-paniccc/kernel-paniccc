@@ -28,7 +28,7 @@
 - **Domain focus:** **FinTech**, MLSecOps, Fundamental Crypto
 
 
-### 🛠 **Main CTF & Pentest Tools and MLSecOps:**
+### 🛠 **Main CTF & Pentest Tools:**
 - **Web:** Burp Suite, sqlmap, dirb, gobuster, wfuzz, ffuf
 - **Crypto:** rsactftool, Sage, John the Ripper, hashcat
 - **Forensics:** Volatility, Autopsy, FTK Imager
