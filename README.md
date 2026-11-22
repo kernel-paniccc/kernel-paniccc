@@ -1,56 +1,39 @@
-<h1 align="center">Hi, I'm Ivan (kernel-paniccc) 👋</h1>
+<img src="./assets/dev.svg" width="100%" alt="kernel-paniccc">
 
-<div align="center">
-  <img src="https://media.giphy.com/media/KxbHmvL3MGcctzlfdX/giphy.gif" width="400">
-</div>
+# Hi, I'm Ivan (kernel-paniccc) 👋
 
-<h3 align="center">
-  🔐 DevSecOps Engineer | Cryptographic Security Researcher | CTF Player
-</h3>
+**🔐 DevSecOps Engineer | Cryptographic Security Researcher**
 
-  About me:
-</h3>
+I'm a second-year Computer Security student at [HSE University](https://www.hse.ru/en/) (10.05.01). I've spent 4+ years on CTFs and pentesting. For the past two years, I've focused on MPC and distributed systems.
 
-🎓 **2st-year student** at [HSE University](https://www.hse.ru/en/) — CoSec (10.05.01)  
-🔒 **4+ years** in offensive security (Kali toolkit, CTF tasks, pentesting, crypto)  
-🔐 **Specialized in:** Distributed crypto system & MPC, cryptographic problem, DevSecOps engeniring
+### Fundamental Cryptography & MPC
 
-## TECHNICAL STACK
+**Primitives** · Secret sharing, Beaver triples, OT, PSI, homomorphic encryption  
+**Selected protocols** · BGW, MASCOT, threshold ECDSA, FROST  
+**Private computation** · CrypTen, SecretFlow, MP-SPDZ
 
-### 🔐 Security & DevSecOps
-![DevSecOps](https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,debian,arch,kali,systemd,bash,neovim,nix,git,github,gitlab,docker,kubernetes,k3s,helm,terraform,ansible,vagrant,githubactions,argocd,cloudflare,heroku,prometheus,grafana,elasticsearch,kibana,nginx,postman&perline=6&titles=true)
+<img height="34" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/python.svg" alt="Python" title="Python"> <img height="34" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/cpp.svg" alt="C++" title="C++"> <img height="34" src="https://go-skill-icons.vercel.app/api/icons?i=pytorch" alt="PyTorch" title="PyTorch"> <img height="34" src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" alt="Jupyter" title="Jupyter">
 
-### 🧠 Applied Cryptography / Confidential Computing
-- **Core focus:** **OT (Oblivious Transfer)**, **PSI (Private Set Intersection)**, **HE (Homomorphic Encryption)**
-- **TEE:** Intel **SGX**, Intel **TDX**
-- **Privacy-preserving ML:** **CrypTen**, **SecretFlow**
-- **Secure ML / FL:** federated learning and multy-compute system
-- **Domain focus:** **FinTech**, MLSecOps, Fundamental Crypto
+### Distributed Systems & Infrastructure
 
+**Systems & provisioning**  
+<img height="34" src="https://go-skill-icons.vercel.app/api/icons?i=linux" alt="Linux" title="Linux"> <img height="34" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/bash.svg" alt="Bash" title="Bash"> <img height="34" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/git.svg" alt="Git" title="Git"> <img height="34" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/docker.svg" alt="Docker" title="Docker"> <img height="34" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/kubernetes.svg" alt="Kubernetes" title="Kubernetes"> <img height="34" src="https://go-skill-icons.vercel.app/api/icons?i=k3s" alt="k3s" title="k3s"> <img height="34" src="https://go-skill-icons.vercel.app/api/icons?i=helm" alt="Helm" title="Helm"> <img height="34" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/ansible.svg" alt="Ansible" title="Ansible"> <img height="34" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/terraform.svg" alt="Terraform" title="Terraform"> <img height="34" src="https://go-skill-icons.vercel.app/api/icons?i=vagrant" alt="Vagrant" title="Vagrant">
 
-### 🛠 **Main CTF & Pentest Tools:**
-- **Web:** Burp Suite, sqlmap, dirb, gobuster, wfuzz, ffuf
-- **Crypto:** rsactftool, Sage, John the Ripper, hashcat
-- **Forensics:** Volatility, Autopsy, FTK Imager
-- **Steganography:** zsteg, stegsolve, binwalk, exiftool
-- **Network:** Wireshark, nmap, zenmap, netcat, iptables
+**Delivery & observability** · GitOps with Argo CD and Flux  
+<img height="34" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/github.svg" alt="GitHub" title="GitHub"> <img height="34" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/gitlab.svg" alt="GitLab" title="GitLab"> <img height="34" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/github-actions.svg" alt="GitHub Actions" title="GitHub Actions"> <img height="34" src="https://go-skill-icons.vercel.app/api/icons?i=argocd" alt="Argo CD" title="Argo CD"> <img height="34" src="https://go-skill-icons.vercel.app/api/icons?i=nginx" alt="Nginx" title="Nginx"> <img height="34" src="https://go-skill-icons.vercel.app/api/icons?i=prometheus" alt="Prometheus" title="Prometheus"> <img height="34" src="https://go-skill-icons.vercel.app/api/icons?i=grafana" alt="Grafana" title="Grafana"> <img height="34" src="https://go-skill-icons.vercel.app/api/icons?i=elasticsearch" alt="Elasticsearch" title="Elasticsearch"> <img height="34" src="https://go-skill-icons.vercel.app/api/icons?i=kibana" alt="Kibana" title="Kibana">
 
-### 💻 Backend
-![Backend](https://go-skill-icons.vercel.app/api/icons?i=py,flask,fastapi,aiogram,sqlite,postgresql,sqlalchemy,pytest,selenium,rabbitmq&perline=5&titles=true)
+### Security
 
+<img height="34" src="https://go-skill-icons.vercel.app/api/icons?i=kali" alt="Kali Linux" title="Kali Linux"> <img height="34" src="https://go-skill-icons.vercel.app/api/icons?i=burpsuite" alt="Burp Suite" title="Burp Suite"> <img height="34" src="https://go-skill-icons.vercel.app/api/icons?i=wireshark" alt="Wireshark" title="Wireshark"> <a href="https://github.com/nmap/nmap"><img width="34" height="34" src="https://github.com/nmap.png?size=68" alt="Nmap" title="Nmap"></a> <a href="https://github.com/semgrep/semgrep"><img width="34" height="34" src="https://github.com/semgrep.png?size=68" alt="Semgrep" title="Semgrep"></a> <a href="https://github.com/aquasecurity/trivy"><img width="34" height="34" src="https://github.com/aquasecurity.png?size=68" alt="Trivy" title="Trivy"></a>
 
-### 📱 Frontend and layout skils 
-![Frontend](https://go-skill-icons.vercel.app/api/icons?i=js,jquery,html,css,bootstrap,scss&perline=10&titles=true)
+**Web & network** · Burp Suite, ffuf, sqlmap, Nmap, Wireshark, iptables  
+**CTF & forensics** · SageMath, hashcat, Volatility, binwalk, ExifTool  
+**Pipeline security** · Semgrep, Trivy
 
-### 🔧 Other skils
+### Repositories
 
-![Other](https://go-skill-icons.vercel.app/api/icons?i=pytorch,arduino,raspberrypi,cpp&perline=10&titles=true)
+[MPC Lab](https://github.com/kernel-paniccc/MPC-and-TEE-reserch) · [Private Comparison](https://github.com/kernel-paniccc/CU_MPC_Homework_2) · [CrypTen Linear Regression](https://github.com/kernel-paniccc/CU_MPC_torch.distrebuted_lab) · [GitOps Infrastructure](https://github.com/kernel-paniccc/GitOps-infrastructure) · [DevSecOps Sandbox](https://github.com/kernel-paniccc/DevSecOps-Docker-img)
 
-## Plan in future
+**Up next** · I'm exploring how to combine ZK proofs with MPC for applications on TON and Ethereum.
 
-- Deep dive into **ZK stack** (Circom / proving systems / practical ZK apps)
-- Explore **TON** ecosystem: **FunC** and **consensus audit**
-- Build stronger research profile in applied cryptography for production systems
-
-
-💬 **Telegram:** [@kernel_paniccc](https://t.me/kernel_paniccc) 
+[Web3.Career](https://web3.career/@kernelpaniccc) · [Telegram](https://t.me/Kernel_Paniccc) · [Email](mailto:paniccckernel@gmail.com)
