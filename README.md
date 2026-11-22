@@ -32,8 +32,10 @@ I'm a second-year Computer Security student at [HSE University](https://www.hse.
 
 ### Repositories
 
-[MPC Lab](https://github.com/kernel-paniccc/MPC-and-TEE-reserch) · [Private Comparison](https://github.com/kernel-paniccc/CU_MPC_Homework_2) · [CrypTen Linear Regression](https://github.com/kernel-paniccc/CU_MPC_torch.distrebuted_lab) · [GitOps Infrastructure](https://github.com/kernel-paniccc/GitOps-infrastructure) · [DevSecOps Sandbox](https://github.com/kernel-paniccc/DevSecOps-Docker-img)
+[![MPC Lab](https://img.shields.io/badge/MPC%20Lab-344e48?style=flat)](https://github.com/kernel-paniccc/MPC-and-TEE-reserch) [![Private Comparison](https://img.shields.io/badge/Private%20Comparison-344e48?style=flat)](https://github.com/kernel-paniccc/CU_MPC_Homework_2) [![CrypTen Linear Regression](https://img.shields.io/badge/CrypTen%20Linear%20Regression-344e48?style=flat)](https://github.com/kernel-paniccc/CU_MPC_torch.distrebuted_lab) [![GitOps Infrastructure](https://img.shields.io/badge/GitOps%20Infrastructure-344e48?style=flat)](https://github.com/kernel-paniccc/GitOps-infrastructure) [![DevSecOps Sandbox](https://img.shields.io/badge/DevSecOps%20Sandbox-344e48?style=flat)](https://github.com/kernel-paniccc/DevSecOps-Docker-img)
 
-**Up next** · I'm exploring how to combine ZK proofs with MPC for applications on TON and Ethereum.
+**Up next**
 
-[Web3.Career](https://web3.career/@kernelpaniccc) · [Telegram](https://t.me/Kernel_Paniccc) · [Email](mailto:paniccckernel@gmail.com)
+I'm exploring how to combine ZK proofs with MPC for applications on TON and Ethereum.
+
+[![Web3.Career](https://img.shields.io/badge/Web3.Career-4a405d?style=flat)](https://web3.career/@kernelpaniccc) [![Telegram](https://img.shields.io/badge/Telegram-4a405d?style=flat)](https://t.me/Kernel_Paniccc) [![Email](https://img.shields.io/badge/Email-4a405d?style=flat)](mailto:paniccckernel@gmail.com)
