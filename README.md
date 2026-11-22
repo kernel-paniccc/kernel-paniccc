@@ -1,6 +1,6 @@
-<img src="./assets/dev.svg" width="100%" alt="kernel-paniccc">
-
 # Hi, I'm Ivan (kernel-paniccc) 👋
+
+<p align="center"><img src="https://media.giphy.com/media/KxbHmvL3MGcctzlfdX/giphy.gif" width="400" alt=""></p>
 
 **🔐 DevSecOps Engineer | Cryptographic Security Researcher**
 
